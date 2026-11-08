@@ -6,7 +6,9 @@ An independent, browser-only interactive portfolio prototype by Crystal Thuy Don
 
 ## Explore the prototype
 
-[**Open the interactive demo**](https://tdong1919-dev.github.io/beauty-data-lab/) · [View the source](https://github.com/tdong1919-dev/beauty-data-lab)\n\nYou can also open `index.html` locally. No build tools, accounts, credentials or network connections are required.
+[**Open the interactive demo**](https://tdong1919-dev.github.io/beauty-data-lab/) · [View the source](https://github.com/tdong1919-dev/beauty-data-lab)
+
+You can also open `index.html` locally. No build tools, accounts, credentials or network connections are required.
 
 Try this sequence:
 
